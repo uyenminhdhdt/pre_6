@@ -2,13 +2,13 @@
   "name": "pre_6",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "app.py",
  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
 "scripts": {
-        "start": "node index.html"
+        "start": "node app.py"
     },
   "keywords": [],
   "author": "",
